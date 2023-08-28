@@ -1,0 +1,15 @@
+* {
+    font-family: "Inter", Helvetica, sans-serif;
+    color: #333;
+}
+
+h1, 
+h2 {
+    color: #1b4d7a;
+}
+
+.image {
+    border-radius: 30px;
+    width: 500px;
+    height: auto;
+}
